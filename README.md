@@ -29,6 +29,5 @@ The application is divided into several key microservices, each responsible for 
 To set up and run the Grocery Online Shopping App locally, ensure that you have the following prerequisites installed:
 
 - Docker: Used for containerizing the microservices.
-- Kubernetes: Required for orchestrating and managing the containers.
 - Node.js: Needed for local development and running the services.
 
